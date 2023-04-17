@@ -3,3 +3,5 @@
 ###           
 ###         
 ![](ETL&SQL/steps.PNG)
+### ETL Step 
+#### Collectiong Data From CSV Files 
