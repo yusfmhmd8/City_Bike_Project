@@ -13,4 +13,6 @@
 
 ![](ETL&SQL/DW.PNG)
 
+### Making Analysis By ( SQL [ Views , SP ] And DAX
+
  
