@@ -4,4 +4,5 @@
 ###         
 ![](ETL&SQL/steps.PNG)
 ### ETL Step 
-#### Collectiong Data From CSV Files 
+#### Using SSIS Tool For Collectiong Data From CSV Files , Making Data Transformation & Clealing & Creating Constraints And RelationShip Between Fact And Dimensions
+
