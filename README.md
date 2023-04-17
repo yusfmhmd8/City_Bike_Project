@@ -19,5 +19,11 @@
 ![](Power_BI/Main_Dashboard.PNG)
 #### -- Station Report
 ![](Power_BI/Station.PNG)
+#### -- Bikes Report
+![](Power_BI/Bikes.PNG)
+#### -- Rider Report
+![](Power_BI/Rider.PNG)
+#### -- Action Report
+![](Power_BI/Action.PNG)
 
  
