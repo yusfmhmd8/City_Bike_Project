@@ -1,0 +1,67 @@
+---------------------- Power BI------------------------------------
+After Extract Data By SSIS Form Excel , Transformation And Loading The Data On the SQL Server (ETL) 
+We have cleaned the data, divided it into a fact table, 
+a set of dimensions, and made the final Design of Data Warehouse
+After that, we made transformation for data to:
+1.Power Query
+In Power Query Another part of the data has been processed 
+In the Rider table, another column was created to calculate the age from birth date column 
+And Another column was created dividing the ages into groups و
+An alteration of the values and a change of the data type for each column 
+The Date Table was made using the M language
+Other data was obtained from a population stats website for the New York City  Region
+web url ( https://www.health.ny.gov/statistics/vital_statistics/2013/table02.htm )
+After Cleaning Data We Get On Country For  Calculate Total Population 
+After making a Editiig to the data, it was loaded by Power BI
+
+2.Model 
+After that, the model was opened to design the data ware house
+ in the form of a star schema and to make the relationships between the tables
+3.Reports
+In the end, we apply the Insights that were collected from the data analysis by using Dax Language  to make Measures for use in visualization,
+.--Main Dashboard 
+#Trips 
+#Bikes 
+#stations
+#Riders
+avg #Trips Per Day
+#Trips By Destion ( USERELATIONSHIP Function )
+#Trips By Station
+#Trips By Stop time
+#Trips by Group Age Per Color
+#Trips by Type Per Gender
+#Trips By Stop Time Vs StartTime
+#Trips by Hours
+ --Bikes 
+#Brands
+#Color
+#Trips by Brand Per  Gender
+#Trips and #Bikes by Invention Year
+#Trips and #Bikes by Color
+#Trips by Color Per  Gender
+avg #Trips Per Station
+--Rider
+#Males
+#Females
+Total Population
+#Trips by Type
+#Trips by Gender
+Total Spent Time By Rider
+#Trips by Day Per Gender
+#Trips by Rider Per Type
+#Trips by Age Group
+--Station
+Avg #Trips Per Station
+Total Duration
+#Trips by Station Per  Gender
+Avg  #Trips Per Day by Station 
+#Trips by Destination Station 
+#Trips by Station Per Top 2 Color
+--Action
+#Trips in Month June
+#Trips  in Month Juli
+Total Population VS  #Riders
+#Trips Per Day For Each Station
+#Trips Per Day For Each Brand
+
+
