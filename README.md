@@ -22,7 +22,7 @@
 #### -- Bikes Report
 ![](Power_BI/Bikes.PNG)
 #### -- Rider Report
-![](Power_BI/Rider.PNG)
+![](Power_BI/Riders.PNG)
 #### -- Action Report
 ![](Power_BI/Action.PNG)
 
