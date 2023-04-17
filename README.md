@@ -20,7 +20,7 @@
 #### -- Station Report
 ![](Power_BI/Station.PNG)
 #### -- Bikes Report
-![](Power_BI/Bikes.PNG)
+![](Power_BI/Bike.PNG)
 #### -- Rider Report
 ![](Power_BI/Riders.PNG)
 #### -- Action Report
