@@ -13,6 +13,9 @@
 
 ![](ETL&SQL/DW.PNG)
 
-### Making Analysis By ( SQL [ Views , SP ] And DAX
+### Making Analysis By ( SQL [ Views , SP ] And DAX )
+### Making Visualization Using Power BI Tool
+#### Main Dashboard
+![](Power_BI/Main_Dashboard.PNG)
 
  
