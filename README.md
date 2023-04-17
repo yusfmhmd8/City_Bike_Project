@@ -8,4 +8,9 @@
 
 ![](ETL&SQL/ETL.PNG)
 ![](ETL&SQL/Etl2.PNG)
+
+### Data Warehouse Design
+
+![](ETL&SQL/DW.PNG)
+
  
